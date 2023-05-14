@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Computer Science and MERN stack**
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **Typescript, React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
