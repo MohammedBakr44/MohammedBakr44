@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Bakr</h1>
 <h3 align="center">A front-end web developer and science enthusiast.</h3>
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
 - 🌱 I’m currently learning **Computer Science and MERN stack**
 
 - 💬 Ask me about **Typescript, React**
